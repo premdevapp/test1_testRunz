@@ -1,0 +1,23 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premdevapp/test1_testRunz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premdevapp/test1_testRunz/issues"
+  },
+  "homepage": "https://github.com/premdevapp/test1_testRunz#readme",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}
